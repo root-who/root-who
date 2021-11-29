@@ -38,5 +38,6 @@
 <img height="30"  align="center" alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img height="30"  align="center" alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
-
-<img align="center" alt="GIF" src="https://media0.giphy.com/media/giKklFontfveZrNXjz/giphy.gif?cid=ecf05e47h9j0rr8i4zl2z9kujsetav9bfh45oichwi5y6fcp&rid=giphy.gif&ct=g?raw=true" width="408" height="318" />
+<p align="center">
+<img align="center" alt="GIF" src="https://media0.giphy.com/media/giKklFontfveZrNXjz/giphy.gif?cid=ecf05e47h9j0rr8i4zl2z9kujsetav9bfh45oichwi5y6fcp&rid=giphy.gif&ct=g?raw=true" width="318" height="318" />
+</p>
