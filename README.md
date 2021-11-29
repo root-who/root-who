@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-who&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: flex; align-itens: center">
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img align="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
-<div align="center" style="display: inline_block">
+<div align="center" >
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit"/>
@@ -28,7 +28,7 @@
 <img align="center" alt="MATERIAL-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>
 </div>
 
-<div align="center" style="display: inline_block">
+<div align="center">
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="POSTGRES" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
 <img align="center" alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
